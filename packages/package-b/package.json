@@ -1,0 +1,15 @@
+{
+  "name": "@iansu/package-b",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ian Sutherland <ian@iansutherland.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "@iansu/package-a": "*"
+  }
+}
